@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AvFulScanDemo</string>
+
+
+    <string name="string_antivirus_privacy_leak">隐私保护</string>
+    <string name="string_antivirus_virus_scan">病毒扫描</string>
+    <string name="string_antivirus_virus_threat">病毒威胁</string>
+    <string name="string_antivirus_vulnerability_risk">漏洞风险</string>
+</resources>
