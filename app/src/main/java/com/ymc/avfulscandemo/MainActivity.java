@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * 小图标
      */
-    private static final int[] f22479J = {R.drawable.ic_small_android, R.drawable.ic_small_book,
+    private static final int[] smallImgArray = {R.drawable.ic_small_android, R.drawable.ic_small_book,
             R.drawable.ic_small_cache, R.drawable.ic_small_key, R.drawable.ic_small_more,
             R.drawable.ic_small_set, R.drawable.ic_small_tree, R.drawable.ic_small_usb};
     RubbishRotationView r1;

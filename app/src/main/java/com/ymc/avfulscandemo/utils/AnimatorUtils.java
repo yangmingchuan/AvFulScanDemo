@@ -9,8 +9,7 @@ import android.util.Property;
  *
  * @Description
  */
-public class C4030ab {
-    /* renamed from: a */
+public class AnimatorUtils {
     public static ObjectAnimator m22805a(Object obj, Property property, float... fArr) {
         if (obj != null) {
             return ObjectAnimator.ofFloat(obj, property, fArr);
@@ -20,7 +19,6 @@ public class C4030ab {
         throw runtimeException;
     }
 
-    /* renamed from: a */
     public static ObjectAnimator m22806a(Object obj, String str, float... fArr) {
         if (obj != null) {
             return ObjectAnimator.ofFloat(obj, str, fArr);
